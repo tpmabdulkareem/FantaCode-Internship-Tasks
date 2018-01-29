@@ -188,12 +188,33 @@ Some of the topics Covered During these are
 
 ## Task 9
 
-- [x] Angular Routing
+`Angular Routing`
 
 Resources: https://angular.io/guide/router
 
 Task: Create an android application with at least 2 components accessed with routing
 
+
+### [My Task Report](https://github.com/tpmabdulkareem/AngularRoutesProject)
+
+
+## Task 10
+
+The task for this week is here:
+
+`Angular Modules & Working`
+
+- [x] Resources:
+
+https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
+
+https://angular-2-training-book.rangle.io/handout/modules/lazy-loading-module.html
+
+- [x] Task:
+
+Create an Angular Application which contains Lazy loaded modules.
+
+### [My Task Report](https://github.com/tpmabdulkareem/AngularLazyLoading)
 
 
 
