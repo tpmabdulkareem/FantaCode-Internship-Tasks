@@ -2,7 +2,7 @@
 This Repository is to publish the skills aquired during the internship program as Front-End Developer Intern at FantaCode Solutions LLP .
 
 
-## *Task 1
+## * Task 1
 
 The task for the first week of your Internship is here.
 
@@ -30,7 +30,7 @@ Object Oriented and functional programming.
 ### [My Task Report](https://www.freecodecamp.org/tpmabdulkareem)
 
 
-## *Task 2
+## * Task 2
 
 The task for this week is here:
 
@@ -46,7 +46,7 @@ A video below which show a webpage with some basic javascript functionality and 
 [Flems.io Link](https://goo.gl/1HaxH7)
 
 
-## *Task 3
+## * Task 3
 
 The resource for this week is here:
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
@@ -69,7 +69,7 @@ APIs used:
  [Flem.io](https://goo.gl/4Y4PHh)
  
  
- # *Task 4
+ # * Task 4
 
 
 
