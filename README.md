@@ -47,7 +47,7 @@ A video below which show a webpage with some basic javascript functionality and 
 [Flems.io Link](https://goo.gl/1HaxH7)
 
 
-## * Task 3
+##  Task 3
 
 The resource for this week is here:
 
@@ -90,7 +90,7 @@ Resource: http://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
 
 This weeks task is to build a simple node module and add it to the repository. It can be anything.
 
-## [My Task Report](https://github.com/tpmabdulkareem/NodeJS_Module-1)
+### [My Task Report](https://github.com/tpmabdulkareem/NodeJS_Module-1)
 
 
 ## Task 5
@@ -113,7 +113,7 @@ Angular CLI : https://cli.angular.io/
 
 Learn how angular builds work and familiarize with the commands to build the angular projects.
 
-## [My Task Report](https://github.com/tpmabdulkareem/Angular_myProject)
+### [My Task Report](https://github.com/tpmabdulkareem/Angular_myProject)
 
 
 
@@ -140,10 +140,35 @@ Learn about HTML5 and CSS: https://www.freecodecamp.org/challenges/say-hello-to-
 
 ` Website: https://www.zillow.com/`
 
-## [My Task Report](https://github.com/tpmabdulkareem/CSS-Webpage-zillow.com-)
+### [My Task Report](https://github.com/tpmabdulkareem/CSS-Webpage-zillow.com-)
+
+
+## Task 7
+
+The task for this week is here:
+
+`Angular Component and its Lifecycle`
+
+ 
+
+Task: Create an angular component that implements OnInit and do some initialization it. Display some data saved in your component.
+
+ 
+
+Resources:
+
+https://angular.io/guide/displaying-data
+
+https://angular-2-training-book.rangle.io/handout/advanced-components/component_lifecycle.html
+
+
+### [My Task Report](https://github.com/tpmabdulkareem/Angular-Component)
 
 
 
+## 10 Days On-Site Internship at FantaCode Solutions
+
+[x]
 
 
 
