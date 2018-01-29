@@ -2,12 +2,13 @@
 This Repository is to publish the skills aquired during the internship program as Front-End Developer Intern at FantaCode Solutions LLP .
 
 
-## * Task 1
+##  Task 1
 
 The task for the first week of your Internship is here.
 
-### JavaScript Basics.
-### Cover the basics of JavaScript and have a good understanding of its functional approach.
+JavaScript Basics.
+
+Cover the basics of JavaScript and have a good understanding of its functional approach.
 
 
 #### Resources:
@@ -30,7 +31,7 @@ Object Oriented and functional programming.
 ### [My Task Report](https://www.freecodecamp.org/tpmabdulkareem)
 
 
-## * Task 2
+## Task 2
 
 The task for this week is here:
 
@@ -49,7 +50,10 @@ A video below which show a webpage with some basic javascript functionality and 
 ## * Task 3
 
 The resource for this week is here:
+
+
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+
 
 Task: [VIDEO](https://youtu.be/QsryIgvMjas)
 
@@ -58,9 +62,9 @@ API powered by : https://dog.ceo/dog-api/
 
 APIs used:
 
-/api/breeds/list - Get the list of all dog breeds
+`/api/breeds/list - Get the list of all dog breeds`
 
-/api/breed/{breed name}/images/random - to get the dog breed image
+`/api/breed/{breed name}/images/random - to get the dog breed image`
 
 ### My Task Report:
 
