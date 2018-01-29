@@ -168,8 +168,31 @@ https://angular-2-training-book.rangle.io/handout/advanced-components/component_
 
 ## 10 Days On-Site Internship at FantaCode Solutions
 
-- [x] rretret
+Learned and Experienced the real Scenerio of Startup Ecosystem and inaddition learned a lot of things than academic and profeesional skills that makes each Inerns of FanaCode solutions Different from others.
 
+Some of the topics Covered During these are
+- [x] Angular Sevices
+
+- [x] Few Tasks
+
+#### Task 8
+- [x]  [ ToDo Web App](https://github.com/tpmabdulkareem/FantaCode-ToDo)                           
+- [x]  [Puzzle](https://github.com/tpmabdulkareem/Bubbles-Puzzle)
+
+- [x]  SCSS using [flex](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
+
+#### 48 Hours of Hackathon
+
+- [x] Hackathon work: [Mercado](https://github.com/tpmabdulkareem/mercada)
+
+
+## Task 9
+
+- [x] Angular Routing
+
+Resources: https://angular.io/guide/router
+
+Task: Create an android application with at least 2 components accessed with routing
 
 
 
