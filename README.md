@@ -168,7 +168,7 @@ https://angular-2-training-book.rangle.io/handout/advanced-components/component_
 
 ## 10 Days On-Site Internship at FantaCode Solutions
 
-[x]
+- [x] rretret
 
 
 
